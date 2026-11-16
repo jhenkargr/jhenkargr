@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Jhenkar G R, full-stack developer and AI applications builder"><title>Jhenkar G R, full-stack developer and AI applications builder</title><style>.m{font-family:'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,monospace}.s{font-family:'Inter','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}</style><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient><radialGradient id="g1" cx="0.18" cy="0.35" r="0.55"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient><radialGradient id="g2" cx="0.72" cy="0.5" r="0.45"><stop offset="0" stop-color="#bc8cff" stop-opacity="0.28"/><stop offset="1" stop-color="#bc8cff" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#30363d" stroke-opacity="0.45"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 0" dur="8s" repeatCount="indefinite"/></pattern><clipPath id="c"><rect width="1000" height="300" rx="16"/></clipPath><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><g clip-path="url(#c)">
+<rect width="1000" height="300" fill="#0d1117"/>
+<rect width="1000" height="300" fill="url(#grid)" opacity="0.8"/>
+<rect width="1000" height="300" fill="url(#g1)"><animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="1000" height="300" fill="url(#g2)"><animate attributeName="opacity" values="1;0.6;1" dur="6s" repeatCount="indefinite"/></rect>
+<g><animate attributeName="opacity" from="0" to="1" dur="0.7s" fill="freeze"/>
+<text x="56" y="84" class="m" font-size="15" fill="#8b949e"><tspan fill="#3fb950">$</tspan> whoami</text>
+<rect x="134" y="70" width="8" height="17" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="54" y="156" class="s" font-size="66" font-weight="800" fill="url(#g)" letter-spacing="-1.5">Jhenkar G R</text>
+<text x="56" y="194" class="s" font-size="22" fill="#e6edf3">Full-stack developer · AI applications</text>
+<text x="56" y="222" class="m" font-size="13.5" fill="#8b949e">B.E. Computer Science · JSSATE Bengaluru · 2023 – 2027</text>
+<rect x="56" y="242" width="214" height="32" rx="16" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45"/>
+<circle cx="76" cy="258" r="4" fill="#3fb950"/>
+<circle cx="76" cy="258" r="4" fill="none" stroke="#3fb950"><animate attributeName="r" values="4;11" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle>
+<text x="92" y="263" class="s" font-size="13" font-weight="600" fill="#3fb950">Open to internships</text>
+</g>
+<path d="M590,39 Q590,44 595,44 Q590,44 590,49 Q590,44 585,44 Q590,44 590,39Z" fill="#58a6ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0s" repeatCount="indefinite"/></path><path d="M950,66 Q950,70 954,70 Q950,70 950,74 Q950,70 946,70 Q950,70 950,66Z" fill="#bc8cff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.7s" repeatCount="indefinite"/></path><path d="M940,245 Q940,250 945,250 Q940,250 940,255 Q940,250 935,250 Q940,250 940,245Z" fill="#39c5cf"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.4s" begin="1.2s" repeatCount="indefinite"/></path><path d="M580,259 Q580,262 583,262 Q580,262 580,265 Q580,262 577,262 Q580,262 580,259Z" fill="#bc8cff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></path>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0.0s" repeatCount="indefinite"/>
+<polygon points="608,212 700,258 700,272 608,226" fill="#14304d" stroke="#58a6ff" stroke-opacity="0.5"/>
+<polygon points="700,258 792,212 792,226 700,272" fill="#0f2540" stroke="#58a6ff" stroke-opacity="0.5"/>
+<polygon points="700,166 792,212 700,258 608,212" fill="#1b3a5b" stroke="#58a6ff" stroke-width="1.5"/>
+<polygon points="700,186.7 750.6,212 700,237.3 649.4,212" fill="none" stroke="#58a6ff" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<circle cx="700" cy="212" r="3.5" fill="#58a6ff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="800" y1="216" x2="826" y2="216" stroke="#484f58"/>
+<text x="834" y="212" class="s" font-size="14" font-weight="700" fill="#e6edf3">UI</text>
+<text x="834" y="228" class="m" font-size="11" fill="#8b949e">React · Tailwind</text>
+</g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0.8s" repeatCount="indefinite"/>
+<polygon points="608,144 700,190 700,204 608,158" fill="#10333a" stroke="#39c5cf" stroke-opacity="0.5"/>
+<polygon points="700,190 792,144 792,158 700,204" fill="#0b272d" stroke="#39c5cf" stroke-opacity="0.5"/>
+<polygon points="700,98 792,144 700,190 608,144" fill="#173f45" stroke="#39c5cf" stroke-width="1.5"/>
+<polygon points="700,118.7 750.6,144 700,169.3 649.4,144" fill="none" stroke="#39c5cf" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<circle cx="700" cy="144" r="3.5" fill="#39c5cf"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<line x1="800" y1="148" x2="826" y2="148" stroke="#484f58"/>
+<text x="834" y="144" class="s" font-size="14" font-weight="700" fill="#e6edf3">API</text>
+<text x="834" y="160" class="m" font-size="11" fill="#8b949e">FastAPI · Node.js</text>
+</g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+<polygon points="608,76 700,122 700,136 608,90" fill="#2e2049" stroke="#bc8cff" stroke-opacity="0.5"/>
+<polygon points="700,122 792,76 792,90 700,136" fill="#231838" stroke="#bc8cff" stroke-opacity="0.5"/>
+<polygon points="700,30 792,76 700,122 608,76" fill="#3b2a5c" stroke="#bc8cff" stroke-width="1.5"/>
+<polygon points="700,50.7 750.6,76 700,101.3 649.4,76" fill="none" stroke="#bc8cff" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<circle cx="700" cy="76" r="3.5" fill="#bc8cff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<line x1="800" y1="80" x2="826" y2="80" stroke="#484f58"/>
+<text x="834" y="76" class="s" font-size="14" font-weight="700" fill="#e6edf3">AI</text>
+<text x="834" y="92" class="m" font-size="11" fill="#8b949e">RAG · LLM APIs</text>
+</g>
+<circle r="3" fill="#ffffff" filter="url(#glow)"><animateMotion dur="3.2s" begin="0s" repeatCount="indefinite" path="M700 262 L700 40"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle><circle r="3" fill="#ffffff" filter="url(#glow)"><animateMotion dur="3.2s" begin="1.6s" repeatCount="indefinite" path="M700 262 L700 40"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="none" stroke="#30363d"/></svg>

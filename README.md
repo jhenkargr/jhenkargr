@@ -6,8 +6,8 @@
 
 <a href="https://www.jhenkar.me"><img src="https://img.shields.io/badge/Portfolio-jhenkar.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=161b22" alt="Portfolio"/></a>
 <a href="mailto:jhenkargowda.gr@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/jhenkar-g-r-79b6942a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Jhenkargr/https://leetcode.com/u/Jhenkargr/"><img src="https://img.shields.io/badge/LeetCode-Profile-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" alt="LeetCode"/></a>
 
 </div>
 
@@ -41,7 +41,7 @@ Simplifies complex legal documents, generates legal templates and connects users
 
 `FastAPI` `React` `Node.js` `MySQL` `RAG` `FAISS` `OCR`
 
-[**Live Demo**](https://github.com/jhenkargr) &nbsp;·&nbsp; [**Source**](https://github.com/jhenkargr)
+[**Live Demo**](https://legalease-fawn.vercel.app/) &nbsp;·&nbsp; [**Source**](https://github.com/jhenkargr/Legal-Ease)
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Brings trend prediction, demand forecasting, inventory optimization and marketin
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Scikit-learn` `LLM APIs`
 
-[**Live Demo**](https://github.com/jhenkargr) &nbsp;·&nbsp; [**Source**](https://github.com/jhenkargr)
+[**Live Demo**](https://advantage-os-kappa.vercel.app/) &nbsp;·&nbsp; [**Source**](https://github.com/jhenkargr/Advantage-OS)
 
 </td>
 <td width="48%" valign="middle">
